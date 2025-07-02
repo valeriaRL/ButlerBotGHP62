@@ -1,1 +1,2 @@
 # ButlerBotGHP62
+**BulterBot** is a smart assistant robot that delivers sodas using facial recognition and voice commands. It combines a Google Coral TPU for real-time face identification, Raspberry Pis and Arduinos for control and sensor integration, and runs in a Linux-based environment for flexible development. The bot responds to spoken requests, identifies the user, and autonomously retrieves and delivers their preferred drink.
